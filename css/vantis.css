@@ -1,0 +1,116 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+body {
+	background: #e0e1e2;
+	font-family: 'Lato', Calibri, Arial, sans-serif !important;
+	
+}
+
+h2 {
+	color: #879516;
+}
+
+.alianzas {
+	max-width: 700px;
+	width: 100%;
+}
+
+.color-amarillo {
+	background: #F0A11D;
+	color: white;
+	padding: 1em;
+}
+
+.color-azul {
+	background: #096569;
+	color: white;
+	padding: 1em;
+}
+
+.color-morado {
+	background: #571942;
+	color: white;
+	padding: 1em;
+}
+
+.color-verde {
+	background: #879516;
+	color: white;
+	padding: 1em;
+}
+
+.color-rojo {
+	background: #E62240;
+	color: white;
+	padding: 1em;
+}
+
+.container {
+	max-width: 960px;
+}
+
+.header img {
+	margin-bottom: -1em;
+	width: 100%;
+}
+
+.inicio {
+	margin-top: 50px;
+}
+
+.footer {
+	background-color: #39373c;
+	color:#cdcdcd;
+	font-size: 0.8em;
+	margin-top:1em;
+	padding: 1em;
+}
+
+.footer a {
+	color: white;
+	bottom: 0px;
+}
+
+.navbar {
+	box-shadow: 2px 2px 2px rgba(0,0,0, 0.4);
+}
+
+.texto-inicio {
+	background-color: white;
+	margin-top: 1em;
+	padding: 1em 3em;
+	text-align: center;
+}
+
+.texto-contenido {
+	background-color: white;
+	margin-top: 1em;
+	padding: 1em 3em;
+	text-align: left;
+}
+
+.top {
+	color:gray;
+	margin-top: 1em 0em;
+}
+
+.tecnologias img {
+	opacity: 0.5;
+	width: 100%
+}
+
+.redes {
+	text-align: center;
+}
+
+.servicios {
+	margin-top:1em;
+}
+
+.servicios a {
+	color: white;
+}
+
+.shadow:hover {
+	text-shadow:1px 1px 1px rgba(0,0,0, 0.8);
+}
